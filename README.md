@@ -7,3 +7,5 @@ Repositório 1 - Aula sobre autenticação
 2 - Autenticação via TOKEN (PATs)
 
 3- Autenticação via SSH - 1 e 2
+
+Realizando alterações de teste para o nosso repositório.
